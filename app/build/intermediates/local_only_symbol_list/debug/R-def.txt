@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color background
+color black
+color white
+drawable custom
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable lambilogin
+drawable lambitextlogo
+drawable loginlogo
+drawable logologin
+drawable logologin2
+drawable signinbutton
+drawable splashscreenlogo
+drawable wm
+drawable wmlogo
+font poppins_medium
+id imageView2
+id imageView3
+id tvmain
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string nameapp
+string signin
+style Base.Theme.LambiApp
+style Theme.App.SplashScreen
+style Theme.LambiApp
+xml backup_rules
+xml data_extraction_rules
