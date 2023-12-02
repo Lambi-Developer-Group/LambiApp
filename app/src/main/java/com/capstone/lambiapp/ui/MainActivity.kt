@@ -1,7 +1,8 @@
-package com.capstone.lambiapp
+package com.capstone.lambiapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.capstone.lambiapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

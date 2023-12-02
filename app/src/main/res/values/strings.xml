@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LambiApp</string>
+    <string name="nameapp">welcome to Lambi</string>
+    <string name="signin">Sign in With Google</string>
+
+
 </resources>
