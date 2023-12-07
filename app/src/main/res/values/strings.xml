@@ -2,6 +2,8 @@
     <string name="app_name">LambiApp</string>
     <string name="nameapp">welcome to Lambi</string>
     <string name="signin">Sign in With Google</string>
+    <string name="web_client_id">713527689829-e5avtl388g0tcevtnavvjh9651utt425.apps.googleusercontent.com</string>
+
 
 
 </resources>

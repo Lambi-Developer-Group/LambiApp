@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="@drawable/backgroundlogin"
     tools:context=".ui.loginActivity">
 
     <TextView
@@ -30,18 +30,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/loginlogo" />
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="285dp"
-        android:layout_height="148dp"
-        android:layout_marginStart="14dp"
-        android:layout_marginTop="168dp"
-        android:layout_marginEnd="14dp"
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="172dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.612"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3"
-        app:srcCompat="@drawable/signinbutton" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -7,6 +7,7 @@ array preloaded_fonts
 color background
 color black
 color white
+drawable backgroundlogin
 drawable custom
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -15,13 +16,19 @@ drawable lambitextlogo
 drawable loginlogo
 drawable logologin
 drawable logologin2
+drawable logosplashscree
 drawable signinbutton
+drawable splashscreen
+drawable splashscreenbg
 drawable splashscreenlogo
 drawable wm
 drawable wmlogo
 font poppins_medium
-id imageView2
+id buttonSignOut
 id imageView3
+id iv_profile
+id sign_in_button
+id tvid
 id tvmain
 layout activity_login
 layout activity_main
@@ -30,6 +37,7 @@ mipmap ic_launcher_round
 string app_name
 string nameapp
 string signin
+string web_client_id
 style Base.Theme.LambiApp
 style Theme.App.SplashScreen
 style Theme.LambiApp

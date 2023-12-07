@@ -24,6 +24,7 @@
     <string name="app_name">LambiApp</string>
     <string name="nameapp">welcome to Lambi</string>
     <string name="signin">Sign in With Google</string>
+    <string name="web_client_id">713527689829-e5avtl388g0tcevtnavvjh9651utt425.apps.googleusercontent.com</string>
     <style name="Base.Theme.LambiApp" parent="Theme.Material3.DayNight.NoActionBar">
         
         
@@ -33,8 +34,9 @@
             @color/background
         </item>
         <item name="windowSplashScreenAnimatedIcon">
-            @drawable/splashscreenlogo
+            @drawable/logosplashscree
         </item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.LambiApp</item>
     </style>
     <style name="Theme.LambiApp" parent="Base.Theme.LambiApp"/>
 </resources>

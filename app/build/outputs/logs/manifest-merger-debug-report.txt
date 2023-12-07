@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.databinding:viewbinding:8.1.2] E:\Nokiawzn\caches\transforms-3\8b321f4970b73fe00b67f9104822ca4f\transformed\viewbinding-8.1.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] E:\Nokiawzn\caches\transforms-3\a4d1a82202da03ec8032efb5168d1448\transformed\navigation-ui-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.3.5] E:\Nokiawzn\caches\transforms-3\077994d573340de15236cc226a84b1eb\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -11,10 +11,18 @@ MERGED from [com.google.android.material:material:1.10.0] E:\Nokiawzn\caches\tra
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Nokiawzn\caches\transforms-3\c8da0b00cb3dee3582f03f3d60b1ce57\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Nokiawzn\caches\transforms-3\de7d012e4e098b38a46ce826c7deed69\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Nokiawzn\caches\transforms-3\ea81018398a5eb9877f0ba4a04db551f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] E:\Nokiawzn\caches\transforms-3\5f79b01223fd7b728d1fa8a0c13b05b5\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Nokiawzn\caches\transforms-3\f27cc9987ff57f135654f4a6a31b5537\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] E:\Nokiawzn\caches\transforms-3\3bdb9bef35888fcd740261bdec84599e\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] E:\Nokiawzn\caches\transforms-3\452dbb1dcce73960f00e6d1ab4fd7a6c\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] E:\Nokiawzn\caches\transforms-3\cd758b6f84298f02cd74bab2eed4135f\transformed\fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] E:\Nokiawzn\caches\transforms-3\990824fc21bdee1dcd31f06f0cdb2f0b\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Nokiawzn\caches\transforms-3\0179c8be11f6e4ea57cc4b30997ee83f\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] E:\Nokiawzn\caches\transforms-3\ce2f16378bdaa6c10c3150143e8acbc7\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] E:\Nokiawzn\caches\transforms-3\8a0e9da1e134a502a8cde361125fbbb5\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.3.6] E:\Nokiawzn\caches\transforms-3\a6f6bc0a5b645ddb18673e5e79911bfd\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] E:\Nokiawzn\caches\transforms-3\6999c2a740cd67543d20eb1ea1d4019a\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-runtime:2.3.5] E:\Nokiawzn\caches\transforms-3\7c82cf2eac7ce9ee9728aec9c97bbac2\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
@@ -29,9 +37,9 @@ MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Nokiawzn\cac
 MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Nokiawzn\caches\transforms-3\a88d31ff495467a17529c75ac1843c82\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Nokiawzn\caches\transforms-3\8df0299f50225c8b688d9bd5540d109a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Nokiawzn\caches\transforms-3\41d0c0014e08897cf373ecb41757dfa1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Nokiawzn\caches\transforms-3\63d1ebdf979af4341048fdc3bbfc96fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] E:\Nokiawzn\caches\transforms-3\a612ca267cbabd2b396a9972113df7bf\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Nokiawzn\caches\transforms-3\89c7d98d723ba55fdac974847340c7d8\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.customview:customview:1.1.0] E:\Nokiawzn\caches\transforms-3\957b2f5e261d05c1309583e4919b9c62\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.transition:transition:1.3.0] E:\Nokiawzn\caches\transforms-3\dd7dd919ddd1c5c0d751980bc0845f0a\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
@@ -52,10 +60,12 @@ MERGED from [androidx.core:core-splashscreen:1.0.0] E:\Nokiawzn\caches\transform
 MERGED from [org.michaelevans.colorart:library:0.0.3] E:\Nokiawzn\caches\transforms-3\bdbd3683c29a158885ac8d27d59c5ee2\transformed\library-0.0.3\AndroidManifest.xml:2:1-15:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Nokiawzn\caches\transforms-3\e0b137afff3ac49bf7934795649c619e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] E:\Nokiawzn\caches\transforms-3\b9f176b342dee6e081465f93e6622c68\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] E:\Nokiawzn\caches\transforms-3\b482e2878a8cd9bcb23ec0191dea3fad\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] E:\Nokiawzn\caches\transforms-3\c3a4ef91c550b095beaf78e3b9ce31c3\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Nokiawzn\caches\transforms-3\a00164b5ae1d9d32901118f40dc9524f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] E:\Nokiawzn\caches\transforms-3\9df30334f425ee5c0230410152fc1166\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Nokiawzn\caches\transforms-3\1b8d629f547fb2868befd81282e00a05\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Nokiawzn\caches\transforms-3\887830a58f41d5340d9c8d7904d9bc71\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Nokiawzn\caches\transforms-3\96bfdbdb6910b83341af26f205d19fe9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -72,13 +82,31 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Nokiawzn\cach
 		INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:6:5-32:19
-INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:6:5-32:19
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:9:5-37:19
+INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml:9:5-37:19
 MERGED from [com.google.android.material:material:1.10.0] E:\Nokiawzn\caches\transforms-3\63382362199d553975ec785d0a1c3d4b\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] E:\Nokiawzn\caches\transforms-3\63382362199d553975ec785d0a1c3d4b\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Nokiawzn\caches\transforms-3\c8da0b00cb3dee3582f03f3d60b1ce57\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Nokiawzn\caches\transforms-3\c8da0b00cb3dee3582f03f3d60b1ce57\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] E:\Nokiawzn\caches\transforms-3\ce2f16378bdaa6c10c3150143e8acbc7\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] E:\Nokiawzn\caches\transforms-3\ce2f16378bdaa6c10c3150143e8acbc7\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] E:\Nokiawzn\caches\transforms-3\8a0e9da1e134a502a8cde361125fbbb5\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] E:\Nokiawzn\caches\transforms-3\8a0e9da1e134a502a8cde361125fbbb5\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
@@ -87,62 +115,64 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Nokiawzn\caches\tran
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Nokiawzn\caches\transforms-3\52093c2e9b2d6b99e3306c6b4afb83ad\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
 MERGED from [org.michaelevans.colorart:library:0.0.3] E:\Nokiawzn\caches\transforms-3\bdbd3683c29a158885ac8d27d59c5ee2\transformed\library-0.0.3\AndroidManifest.xml:11:5-13:44
 MERGED from [org.michaelevans.colorart:library:0.0.3] E:\Nokiawzn\caches\transforms-3\bdbd3683c29a158885ac8d27d59c5ee2\transformed\library-0.0.3\AndroidManifest.xml:11:5-13:44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Nokiawzn\caches\transforms-3\a00164b5ae1d9d32901118f40dc9524f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Nokiawzn\caches\transforms-3\a00164b5ae1d9d32901118f40dc9524f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:9:9-54
-	android:roundIcon
 		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:15:9-54
 	tools:targetApi
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:15:9-29
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:14:9-46
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:17:9-46
 	android:dataExtractionRules
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:8:9-65
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.capstone.lambiapp.ui.loginActivity
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:16:9-18:40
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:exported
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:18:13-37
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:22:13-36
+	android:theme
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:21:13-58
 	android:name
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:17:13-45
-activity#com.capstone.lambiapp.ui.MainActivity
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:19:9-27:20
-	android:exported
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:21:13-36
-	android:name
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:20:13-44
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:20:13-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.capstone.lambiapp.ui.MainActivity
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:29:9-31:39
+	android:exported
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:30:13-44
 meta-data#preloaded_fonts
-ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:29:9-31:57
+ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:34:9-36:57
 	android:resource
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:31:13-54
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:36:13-54
 	android:name
-		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:30:13-43
+		ADDED from E:\LambiApp\app\src\main\AndroidManifest.xml:35:13-43
 uses-sdk
 INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml
@@ -161,6 +191,10 @@ MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Nokiawzn\caches\tr
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Nokiawzn\caches\transforms-3\de7d012e4e098b38a46ce826c7deed69\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Nokiawzn\caches\transforms-3\ea81018398a5eb9877f0ba4a04db551f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Nokiawzn\caches\transforms-3\ea81018398a5eb9877f0ba4a04db551f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] E:\Nokiawzn\caches\transforms-3\5f79b01223fd7b728d1fa8a0c13b05b5\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] E:\Nokiawzn\caches\transforms-3\5f79b01223fd7b728d1fa8a0c13b05b5\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Nokiawzn\caches\transforms-3\f27cc9987ff57f135654f4a6a31b5537\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Nokiawzn\caches\transforms-3\f27cc9987ff57f135654f4a6a31b5537\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] E:\Nokiawzn\caches\transforms-3\3bdb9bef35888fcd740261bdec84599e\transformed\navigation-fragment-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -169,6 +203,18 @@ MERGED from [androidx.navigation:navigation-fragment:2.3.5] E:\Nokiawzn\caches\t
 MERGED from [androidx.navigation:navigation-fragment:2.3.5] E:\Nokiawzn\caches\transforms-3\452dbb1dcce73960f00e6d1ab4fd7a6c\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] E:\Nokiawzn\caches\transforms-3\cd758b6f84298f02cd74bab2eed4135f\transformed\fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment-ktx:1.2.4] E:\Nokiawzn\caches\transforms-3\cd758b6f84298f02cd74bab2eed4135f\transformed\fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] E:\Nokiawzn\caches\transforms-3\990824fc21bdee1dcd31f06f0cdb2f0b\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] E:\Nokiawzn\caches\transforms-3\990824fc21bdee1dcd31f06f0cdb2f0b\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Nokiawzn\caches\transforms-3\0179c8be11f6e4ea57cc4b30997ee83f\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] E:\Nokiawzn\caches\transforms-3\0179c8be11f6e4ea57cc4b30997ee83f\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] E:\Nokiawzn\caches\transforms-3\ce2f16378bdaa6c10c3150143e8acbc7\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] E:\Nokiawzn\caches\transforms-3\ce2f16378bdaa6c10c3150143e8acbc7\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] E:\Nokiawzn\caches\transforms-3\8a0e9da1e134a502a8cde361125fbbb5\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] E:\Nokiawzn\caches\transforms-3\8a0e9da1e134a502a8cde361125fbbb5\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.3.6] E:\Nokiawzn\caches\transforms-3\a6f6bc0a5b645ddb18673e5e79911bfd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] E:\Nokiawzn\caches\transforms-3\a6f6bc0a5b645ddb18673e5e79911bfd\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] E:\Nokiawzn\caches\transforms-3\6999c2a740cd67543d20eb1ea1d4019a\transformed\navigation-runtime-ktx-2.3.5\AndroidManifest.xml:20:5-22:41
@@ -197,12 +243,12 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Nokiawzn\
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Nokiawzn\caches\transforms-3\8df0299f50225c8b688d9bd5540d109a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Nokiawzn\caches\transforms-3\41d0c0014e08897cf373ecb41757dfa1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Nokiawzn\caches\transforms-3\41d0c0014e08897cf373ecb41757dfa1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Nokiawzn\caches\transforms-3\63d1ebdf979af4341048fdc3bbfc96fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Nokiawzn\caches\transforms-3\63d1ebdf979af4341048fdc3bbfc96fc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] E:\Nokiawzn\caches\transforms-3\a612ca267cbabd2b396a9972113df7bf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] E:\Nokiawzn\caches\transforms-3\a612ca267cbabd2b396a9972113df7bf\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Nokiawzn\caches\transforms-3\ab5613fc3c5189c0890f1a1c897cafef\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Nokiawzn\caches\transforms-3\89c7d98d723ba55fdac974847340c7d8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Nokiawzn\caches\transforms-3\89c7d98d723ba55fdac974847340c7d8\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.customview:customview:1.1.0] E:\Nokiawzn\caches\transforms-3\957b2f5e261d05c1309583e4919b9c62\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -243,14 +289,18 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Nokiawzn\caches\tran
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Nokiawzn\caches\transforms-3\e0b137afff3ac49bf7934795649c619e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] E:\Nokiawzn\caches\transforms-3\b9f176b342dee6e081465f93e6622c68\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] E:\Nokiawzn\caches\transforms-3\b9f176b342dee6e081465f93e6622c68\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] E:\Nokiawzn\caches\transforms-3\b482e2878a8cd9bcb23ec0191dea3fad\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] E:\Nokiawzn\caches\transforms-3\b482e2878a8cd9bcb23ec0191dea3fad\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] E:\Nokiawzn\caches\transforms-3\c3a4ef91c550b095beaf78e3b9ce31c3\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] E:\Nokiawzn\caches\transforms-3\c3a4ef91c550b095beaf78e3b9ce31c3\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Nokiawzn\caches\transforms-3\a00164b5ae1d9d32901118f40dc9524f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Nokiawzn\caches\transforms-3\a00164b5ae1d9d32901118f40dc9524f\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] E:\Nokiawzn\caches\transforms-3\9df30334f425ee5c0230410152fc1166\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] E:\Nokiawzn\caches\transforms-3\9df30334f425ee5c0230410152fc1166\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Nokiawzn\caches\transforms-3\074828eb53783e17ddeabfeaeea75130\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Nokiawzn\caches\transforms-3\1b8d629f547fb2868befd81282e00a05\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Nokiawzn\caches\transforms-3\1b8d629f547fb2868befd81282e00a05\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Nokiawzn\caches\transforms-3\887830a58f41d5340d9c8d7904d9bc71\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
@@ -267,6 +317,40 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Nokiawzn\cach
 		INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from E:\LambiApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Nokiawzn\caches\transforms-3\52093c2e9b2d6b99e3306c6b4afb83ad\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20

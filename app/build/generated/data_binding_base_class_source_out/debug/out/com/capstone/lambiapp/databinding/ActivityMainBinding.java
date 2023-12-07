@@ -4,6 +4,8 @@ package com.capstone.lambiapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,10 +22,23 @@ public final class ActivityMainBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final Button buttonSignOut;
+
+  @NonNull
+  public final ImageView ivProfile;
+
+  @NonNull
+  public final TextView tvid;
+
+  @NonNull
   public final TextView tvmain;
 
-  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull TextView tvmain) {
+  private ActivityMainBinding(@NonNull ConstraintLayout rootView, @NonNull Button buttonSignOut,
+      @NonNull ImageView ivProfile, @NonNull TextView tvid, @NonNull TextView tvmain) {
     this.rootView = rootView;
+    this.buttonSignOut = buttonSignOut;
+    this.ivProfile = ivProfile;
+    this.tvid = tvid;
     this.tvmain = tvmain;
   }
 
@@ -54,13 +69,32 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.buttonSignOut;
+      Button buttonSignOut = ViewBindings.findChildViewById(rootView, id);
+      if (buttonSignOut == null) {
+        break missingId;
+      }
+
+      id = R.id.iv_profile;
+      ImageView ivProfile = ViewBindings.findChildViewById(rootView, id);
+      if (ivProfile == null) {
+        break missingId;
+      }
+
+      id = R.id.tvid;
+      TextView tvid = ViewBindings.findChildViewById(rootView, id);
+      if (tvid == null) {
+        break missingId;
+      }
+
       id = R.id.tvmain;
       TextView tvmain = ViewBindings.findChildViewById(rootView, id);
       if (tvmain == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((ConstraintLayout) rootView, tvmain);
+      return new ActivityMainBinding((ConstraintLayout) rootView, buttonSignOut, ivProfile, tvid,
+          tvmain);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

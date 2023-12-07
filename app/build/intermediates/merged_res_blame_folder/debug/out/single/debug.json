@@ -28,12 +28,24 @@
         "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\xml\\data_extraction_rules.xml"
     },
     {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logosplashscree.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logosplashscree.png"
+    },
+    {
         "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "com.capstone.lambiapp-merged_res-4:/layout_activity_login.xml.flat",
+        "source": "com.capstone.lambiapp-main-6:/layout/activity_login.xml"
+    },
+    {
         "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreen.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreen.png"
     },
     {
         "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
@@ -64,12 +76,16 @@
         "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\wm.png"
     },
     {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_backgroundlogin.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\backgroundlogin.png"
+    },
+    {
         "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.capstone.lambiapp-merged_res-4:/layout_activity_main.xml.flat",
-        "source": "com.capstone.lambiapp-main-6:/layout/activity_main.xml"
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenbg.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreenbg.png"
     },
     {
         "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenlogo.png.flat",
