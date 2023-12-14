@@ -13,7 +13,7 @@
         </item>
     </string-array></file><file path="E:\LambiApp\app\src\main\res\values\preloaded_fonts.xml" qualifiers=""><array name="preloaded_fonts" translatable="false">
         <item>@font/poppins_medium</item>
-    </array></file><file path="E:\LambiApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">LambiApp</string><string name="nameapp">welcome to Lambi</string><string name="signin">Sign in With Google</string><string name="web_client_id">713527689829-e5avtl388g0tcevtnavvjh9651utt425.apps.googleusercontent.com</string></file><file path="E:\LambiApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.LambiApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </array></file><file path="E:\LambiApp\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">LambiApp</string><string name="nameapp">welcome to Lambi</string><string name="signin">Sign in With Google</string><string name="web_client_id">419877894907-470oebf2ijpqoqd9hute41b8ubjq7gpg.apps.googleusercontent.com</string></file><file path="E:\LambiApp\app\src\main\res\values\themes.xml" qualifiers=""><style name="Base.Theme.LambiApp" parent="Theme.Material3.DayNight.NoActionBar">
         
         
     </style><style name="Theme.LambiApp" parent="Base.Theme.LambiApp"/><style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">

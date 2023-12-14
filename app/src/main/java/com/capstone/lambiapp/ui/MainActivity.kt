@@ -5,6 +5,7 @@ import android.graphics.BitmapFactory
 import android.os.Bundle
 import android.service.autofill.TextValueSanitizer
 import android.util.Log
+import android.view.View
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
@@ -42,6 +43,7 @@ class MainActivity : AppCompatActivity() {
             binding.tvmain.text = account.displayName
             Glide.with(applicationContext).load(account.photoUrl).apply(RequestOptions.bitmapTransform(
                 CircleCrop())).into(binding.ivProfile)
+            Log.d("TOKEN",account.idToken.toString())
 
 
         }
@@ -61,7 +63,11 @@ class MainActivity : AppCompatActivity() {
     private fun goSignOut() {
         gsc.signOut().addOnSuccessListener {
             startActivity(Intent(this,loginActivity::class.java))
+            showLoading()
             finish()
         }
+    }
+    private fun showLoading(){
+        binding.progressBar.visibility= View.VISIBLE
     }
 }
