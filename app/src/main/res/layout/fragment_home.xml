@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.HomeFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            style="@style/spartanSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="21dp"
+            android:layout_marginTop="15dp"
+            android:text="Hello, "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_title_home"
+            style="@style/spartanReguler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="107dp"
+            android:text="Your recent history"
+
+            android:textAlignment="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/main_cardview"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="14dp"
+            android:background="@drawable/bg_cardview_putih"
+            android:elevation="20dp"
+            android:paddingVertical="19dp"
+            app:layout_constraintEnd_toEndOf="@id/tv_title_home"
+            app:layout_constraintStart_toStartOf="@id/tv_title_home"
+            app:layout_constraintTop_toBottomOf="@id/tv_title_home">
+
+            <FrameLayout
+                android:id="@+id/frame_satu"
+                android:layout_width="157dp"
+                android:layout_height="201dp"
+                android:background="@drawable/bg_item_rounded"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toStartOf="@id/frame_dua"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/iv_baju_satu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:foreground="@drawable/grey_overlay"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/baju_satu" />
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_dua"
+                android:layout_width="116dp"
+                android:layout_height="201dp"
+                android:background="@drawable/bg_item_rounded"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/frame_satu"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/iv_baju_dua"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/celana_satu" />
+
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/frame_tiga"
+                android:layout_width="283dp"
+                android:layout_height="223dp"
+                android:layout_marginTop="23dp"
+                android:background="@drawable/bg_item_rounded"
+                app:layout_constraintEnd_toEndOf="@id/frame_dua"
+                app:layout_constraintStart_toStartOf="@id/frame_satu"
+                app:layout_constraintTop_toBottomOf="@id/frame_satu">
+
+                <ImageView
+                    android:id="@+id/iv_baju_tiga"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/baju_tiga" />
+
+
+            </FrameLayout>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/main_cardview">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/baseline_arrow_back_ios_24" />
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:rotation="180"
+                android:scaleType="fitXY"
+                android:src="@drawable/baseline_arrow_back_ios_24" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

@@ -63,11 +63,11 @@ class MainActivity : AppCompatActivity() {
     private fun goSignOut() {
         gsc.signOut().addOnSuccessListener {
             startActivity(Intent(this,loginActivity::class.java))
-            showLoading()
+//            showLoading()
             finish()
         }
     }
-    private fun showLoading(){
-        binding.progressBar.visibility= View.VISIBLE
-    }
+//    private fun showLoading(){
+//        binding.progressBar.visibility= View.VISIBLE
+//    }
 }
