@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.ProfileFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pattern_main_logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:id="@+id/tv_title_profile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="27dp"
+                android:fontFamily="@font/league_spartan_medium"
+                android:letterSpacing="0.2"
+                android:text="Profile"
+                android:textAlignment="center"
+                android:textSize="15sp"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/iv_profile"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:layout_marginTop="30dp"
+                android:src="@drawable/dummy_photo_profile"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_title_profile" />
+
+            <TextView
+                android:id="@+id/tv_nama_profil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:ellipsize="end"
+                android:letterSpacing="0.3"
+                android:text="Prabowo Subianto"
+                android:textAlignment="center"
+                android:textSize="24sp"
+                app:layout_constraintTop_toBottomOf="@id/iv_profile" />
+
+            <LinearLayout
+                android:id="@+id/btn_darkmode"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginHorizontal="21dp"
+                android:layout_marginTop="152dp"
+                android:background="@drawable/bg_item_rounded"
+                android:elevation="10dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+
+                android:paddingHorizontal="21dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_nama_profil">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/ic_moon" />
+
+                <TextView
+                    style="@style/regPoppinsProf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_weight="2"
+                    android:text="Dark Mode" />
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switch_darkmode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:checked="true"
+                    android:theme="@style/switchColorCustom" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_info"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginHorizontal="21dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_item_rounded"
+                android:elevation="10dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingHorizontal="21dp"
+                app:layout_constraintEnd_toEndOf="@id/btn_darkmode"
+                app:layout_constraintStart_toStartOf="@id/btn_darkmode"
+                app:layout_constraintTop_toBottomOf="@id/btn_darkmode">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/ic_info" />
+
+                <TextView
+                    style="@style/regPoppinsProf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_weight="2"
+                    android:text="About Us" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+                    android:rotation="180"
+                    android:src="@drawable/baseline_arrow_back_ios_24" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_donate"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginHorizontal="21dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_item_rounded"
+                android:elevation="10dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingHorizontal="21dp"
+                app:layout_constraintEnd_toEndOf="@id/btn_info"
+                app:layout_constraintStart_toStartOf="@id/btn_info"
+                app:layout_constraintTop_toBottomOf="@id/btn_info">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+
+                    android:src="@drawable/ic_coffee" />
+
+                <TextView
+                    style="@style/regPoppinsProf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_weight="2"
+                    android:text="belikan kami kopi" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+
+                    android:rotation="180"
+                    android:src="@drawable/baseline_arrow_back_ios_24" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_logout"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginHorizontal="21dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/bg_item_rounded"
+                android:elevation="10dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingHorizontal="21dp"
+                android:layout_marginBottom="12dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@id/btn_donate"
+                app:layout_constraintStart_toStartOf="@id/btn_donate"
+                app:layout_constraintTop_toBottomOf="@id/btn_donate">
+
+                <ImageView
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_gravity="center"
+
+                    android:src="@drawable/ic_logout" />
+
+                <TextView
+                    style="@style/regPoppinsProf"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:layout_weight="2"
+                    android:text="Logout" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp"
+
+                    android:rotation="180"
+                    android:src="@drawable/baseline_arrow_back_ios_24" />
+            </LinearLayout>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

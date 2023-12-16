@@ -58,15 +58,15 @@ class loginActivity : AppCompatActivity() {
         }
     })
 
-    viewModel.loading.observe(this, Observer { isLoading ->
-        // Show/hide loading indicator based on isLoading value
-        if (isLoading) {
-            showLoading()
-
-        } else {
-
-        }
-    })
+//    viewModel.loading.observe(this, Observer { isLoading ->
+//        // Show/hide loading indicator based on isLoading value
+//        if (isLoading) {
+//            showLoading()
+//
+//        } else {
+//
+//        }
+//    })
 
         binding.signInButton.setOnClickListener{
             goToSign()
@@ -162,13 +162,13 @@ class loginActivity : AppCompatActivity() {
 
 
 
-    private fun goToHome(){
+        private fun goToHome(){
         val intent  = Intent(this,MainActivity::class.java)
         startActivity(intent)
         finish()
 
     }
-    private fun showLoading(){
-        binding.progressBar.visibility= View.VISIBLE
-    }
+//    private fun showLoading(){
+//        binding.progressBar.visibility= View.VISIBLE
+//    }
 }
