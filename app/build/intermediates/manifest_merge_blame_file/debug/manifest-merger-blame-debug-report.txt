@@ -8,274 +8,323 @@
 8        android:minSdkVersion="24"
 9        android:targetSdkVersion="34" />
 10
-11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\LambiApp\app\src\main\AndroidManifest.xml:4:5-67
-11-->E:\LambiApp\app\src\main\AndroidManifest.xml:4:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->E:\LambiApp\app\src\main\AndroidManifest.xml:5:5-79
-12-->E:\LambiApp\app\src\main\AndroidManifest.xml:5:22-76
-13
-14    <queries>
-14-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:7:5-13:15
-15        <intent>
-15-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:8:9-12:18
-16            <action android:name="android.intent.action.CREATE_DOCUMENT" />
-16-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:9:13-76
-16-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:9:21-73
-17
-18            <data android:mimeType="*/*" />
-18-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:11:13-44
-18-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:11:19-41
-19        </intent>
-20    </queries>
-21
-22    <uses-permission
-22-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:15:5-17:38
-23        android:name="android.permission.WAKE_LOCK"
-23-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:16:9-52
-24        android:maxSdkVersion="25" />
-24-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:17:9-35
-25    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-25-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:18:5-77
-25-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:18:22-74
-26
-27    <permission
-27-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-28        android:name="com.capstone.lambiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-28-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-29        android:protectionLevel="signature" />
-29-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-30
-31    <uses-permission android:name="com.capstone.lambiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-31-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-31-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-32
-33    <application
-33-->E:\LambiApp\app\src\main\AndroidManifest.xml:9:5-37:19
-34        android:allowBackup="true"
-34-->E:\LambiApp\app\src\main\AndroidManifest.xml:10:9-35
-35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-35-->[androidx.core:core:1.9.0] E:\Nokiawzn\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-36        android:dataExtractionRules="@xml/data_extraction_rules"
-36-->E:\LambiApp\app\src\main\AndroidManifest.xml:11:9-65
-37        android:debuggable="true"
-38        android:extractNativeLibs="false"
-39        android:fullBackupContent="@xml/backup_rules"
-39-->E:\LambiApp\app\src\main\AndroidManifest.xml:12:9-54
-40        android:icon="@mipmap/ic_launcher"
-40-->E:\LambiApp\app\src\main\AndroidManifest.xml:13:9-43
-41        android:label="@string/app_name"
-41-->E:\LambiApp\app\src\main\AndroidManifest.xml:14:9-41
-42        android:roundIcon="@mipmap/ic_launcher_round"
-42-->E:\LambiApp\app\src\main\AndroidManifest.xml:15:9-54
-43        android:supportsRtl="true"
-43-->E:\LambiApp\app\src\main\AndroidManifest.xml:16:9-35
-44        android:testOnly="true"
-45        android:theme="@style/Theme.LambiApp" >
-45-->E:\LambiApp\app\src\main\AndroidManifest.xml:17:9-46
-46        <activity
-46-->E:\LambiApp\app\src\main\AndroidManifest.xml:19:9-28:20
-47            android:name="com.capstone.lambiapp.ui.loginActivity"
-47-->E:\LambiApp\app\src\main\AndroidManifest.xml:20:13-45
-48            android:exported="true"
-48-->E:\LambiApp\app\src\main\AndroidManifest.xml:22:13-36
-49            android:theme="@style/Theme.App.SplashScreen" >
-49-->E:\LambiApp\app\src\main\AndroidManifest.xml:21:13-58
-50            <intent-filter>
-50-->E:\LambiApp\app\src\main\AndroidManifest.xml:23:13-27:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->E:\LambiApp\app\src\main\AndroidManifest.xml:24:17-69
-51-->E:\LambiApp\app\src\main\AndroidManifest.xml:24:25-66
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->E:\LambiApp\app\src\main\AndroidManifest.xml:26:17-77
-53-->E:\LambiApp\app\src\main\AndroidManifest.xml:26:27-74
-54            </intent-filter>
-55        </activity>
-56        <activity
-56-->E:\LambiApp\app\src\main\AndroidManifest.xml:29:9-31:39
-57            android:name="com.capstone.lambiapp.ui.MainActivity"
-57-->E:\LambiApp\app\src\main\AndroidManifest.xml:30:13-44
-58            android:exported="false" />
-58-->E:\LambiApp\app\src\main\AndroidManifest.xml:31:13-37
-59
-60        <meta-data
-60-->E:\LambiApp\app\src\main\AndroidManifest.xml:34:9-36:57
-61            android:name="preloaded_fonts"
-61-->E:\LambiApp\app\src\main\AndroidManifest.xml:35:13-43
-62            android:resource="@array/preloaded_fonts" />
-62-->E:\LambiApp\app\src\main\AndroidManifest.xml:36:13-54
-63
-64        <activity
-64-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:21:9-26:52
-65            android:name="com.chuckerteam.chucker.internal.ui.MainActivity"
-65-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:22:13-76
-66            android:label="@string/chucker_name"
-66-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:23:13-49
-67            android:launchMode="singleTask"
-67-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:24:13-44
-68            android:taskAffinity="com.chuckerteam.chucker.task"
-68-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:25:13-64
-69            android:theme="@style/Chucker.Theme" />
-69-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:26:13-49
-70        <activity
-70-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:27:9-30:52
-71            android:name="com.chuckerteam.chucker.internal.ui.transaction.TransactionActivity"
-71-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:28:13-95
-72            android:parentActivityName="com.chuckerteam.chucker.internal.ui.MainActivity"
-72-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:29:13-90
-73            android:theme="@style/Chucker.Theme" />
-73-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:30:13-49
-74
-75        <service
-75-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:32:9-35:72
-76            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseService"
-76-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:33:13-89
-77            android:exported="false"
-77-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:34:13-37
-78            android:permission="android.permission.BIND_JOB_SERVICE" />
-78-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:35:13-69
+11    <uses-feature android:name="android.hardware.camera" />
+11-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:5:5-60
+11-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:5:19-57
+12
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:7:5-65
+13-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:7:22-62
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:8:5-67
+14-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:9:5-79
+15-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:9:22-76
+16
+17    <queries>
+17-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:7:5-13:15
+18        <intent>
+18-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:8:9-12:18
+19            <action android:name="android.intent.action.CREATE_DOCUMENT" />
+19-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:9:13-76
+19-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:9:21-73
+20
+21            <data android:mimeType="*/*" />
+21-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:11:13-44
+21-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:11:19-41
+22        </intent>
+23    </queries>
+24
+25    <uses-permission
+25-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:15:5-17:38
+26        android:name="android.permission.WAKE_LOCK"
+26-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:16:9-52
+27        android:maxSdkVersion="25" />
+27-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:17:9-35
+28    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+28-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:18:5-77
+28-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:18:22-74
+29
+30    <permission
+30-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+31        android:name="com.capstone.lambiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+31-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+32        android:protectionLevel="signature" />
+32-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+33
+34    <uses-permission android:name="com.capstone.lambiapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+34-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+34-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+35
+36    <application
+36-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:11:5-51:19
+37        android:allowBackup="true"
+37-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:12:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.9.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\43edc55df3b5c22b93aea8041b6b233a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+39        android:dataExtractionRules="@xml/data_extraction_rules"
+39-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:13:9-65
+40        android:debuggable="true"
+41        android:extractNativeLibs="false"
+42        android:fullBackupContent="@xml/backup_rules"
+42-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:14:9-54
+43        android:icon="@mipmap/ic_launcher"
+43-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:15:9-43
+44        android:label="@string/app_name"
+44-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:16:9-41
+45        android:roundIcon="@mipmap/ic_launcher_round"
+45-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:17:9-54
+46        android:supportsRtl="true"
+46-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:18:9-35
+47        android:testOnly="true"
+48        android:theme="@style/Theme.LambiApp" >
+48-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:19:9-46
+49        <activity
+49-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:21:9-23:40
+50            android:name="com.capstone.lambiapp.ui.AboutActivity"
+50-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:22:13-45
+51            android:exported="false" />
+51-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:23:13-37
+52        <activity
+52-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:24:9-26:39
+53            android:name="com.capstone.lambiapp.ui.CameraViewActivity"
+53-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:25:13-50
+54            android:exported="true" />
+54-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:26:13-36
+55        <activity
+55-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:27:9-29:39
+56            android:name="com.capstone.lambiapp.ui.CameraXActivity"
+56-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:28:13-47
+57            android:exported="true" />
+57-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:29:13-36
+58        <activity
+58-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:30:9-33:39
+59            android:name="com.capstone.lambiapp.ui.HomeActivity"
+59-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:31:13-44
+60            android:configChanges="orientation|screenSize|colorMode|uiMode"
+60-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:32:13-76
+61            android:exported="true" />
+61-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:33:13-36
+62        <activity
+62-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:34:9-43:20
+63            android:name="com.capstone.lambiapp.ui.loginActivity"
+63-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:35:13-45
+64            android:exported="true"
+64-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:36:13-36
+65            android:theme="@style/Theme.App.SplashScreen" >
+65-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:37:13-58
+66            <intent-filter>
+66-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:38:13-42:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:39:17-69
+67-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:39:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:41:17-77
+69-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:41:27-74
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:44:9-46:40
+73            android:name="com.capstone.lambiapp.ui.MainActivity"
+73-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:45:13-44
+74            android:exported="false" />
+74-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:46:13-37
+75
+76        <meta-data
+76-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:48:9-50:57
+77            android:name="preloaded_fonts"
+77-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:49:13-43
+78            android:resource="@array/preloaded_fonts" />
+78-->D:\Dicoding\LambiApp\app\src\main\AndroidManifest.xml:50:13-54
 79
-80        <receiver
-80-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:37:9-39:40
-81            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseJobIntentServiceReceiver"
-81-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:38:13-106
-82            android:exported="false" />
-82-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:39:13-37
-83
-84        <provider
-84-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:41:9-49:20
-85            android:name="com.chuckerteam.chucker.internal.support.ChuckerFileProvider"
-85-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:42:13-88
-86            android:authorities="com.capstone.lambiapp.com.chuckerteam.chucker.provider"
-86-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:43:13-84
-87            android:exported="false"
-87-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:44:13-37
-88            android:grantUriPermissions="true" >
-88-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:45:13-47
-89            <meta-data
-89-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:46:13-48:66
-90                android:name="android.support.FILE_PROVIDER_PATHS"
-90-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:47:17-67
-91                android:resource="@xml/chucker_provider_paths" />
-91-->[com.github.chuckerteam.chucker:library:4.0.0] E:\Nokiawzn\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:48:17-63
-92        </provider>
-93
-94        <activity
-94-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
-95            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-95-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
-96            android:excludeFromRecents="true"
-96-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
-97            android:exported="false"
-97-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
-98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-98-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
-99        <!--
-100            Service handling Google Sign-In user revocation. For apps that do not integrate with
-101            Google Sign-In, this service will never be started.
-102        -->
-103        <service
-103-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
-104            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-104-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
-105            android:exported="true"
-105-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
-106            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
-106-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
-107            android:visibleToInstantApps="true" />
-107-->[com.google.android.gms:play-services-auth:20.7.0] E:\Nokiawzn\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
-108
-109        <activity
-109-->[com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-110            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-110-->[com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-111            android:exported="false"
-111-->[com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-112            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-112-->[com.google.android.gms:play-services-base:18.0.1] E:\Nokiawzn\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-113
-114        <meta-data
-114-->[com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
-115            android:name="com.google.android.gms.version"
-115-->[com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
-116            android:value="@integer/google_play_services_version" />
-116-->[com.google.android.gms:play-services-basement:18.2.0] E:\Nokiawzn\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
-117
-118        <provider
-118-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-119            android:name="androidx.startup.InitializationProvider"
-119-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-120            android:authorities="com.capstone.lambiapp.androidx-startup"
-120-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-121            android:exported="false" >
-121-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-122            <meta-data
-122-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-123                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-123-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-124                android:value="androidx.startup" />
-124-->[androidx.emoji2:emoji2:1.2.0] E:\Nokiawzn\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-125            <meta-data
-125-->[androidx.lifecycle:lifecycle-process:2.6.2] E:\Nokiawzn\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
-126                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-126-->[androidx.lifecycle:lifecycle-process:2.6.2] E:\Nokiawzn\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
-127                android:value="androidx.startup" />
-127-->[androidx.lifecycle:lifecycle-process:2.6.2] E:\Nokiawzn\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
-128            <meta-data
-128-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-129                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-129-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-130                android:value="androidx.startup" />
-130-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-131        </provider>
-132
-133        <service
-133-->[androidx.room:room-runtime:2.5.2] E:\Nokiawzn\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
-134            android:name="androidx.room.MultiInstanceInvalidationService"
-134-->[androidx.room:room-runtime:2.5.2] E:\Nokiawzn\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
-135            android:directBootAware="true"
-135-->[androidx.room:room-runtime:2.5.2] E:\Nokiawzn\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
-136            android:exported="false" />
-136-->[androidx.room:room-runtime:2.5.2] E:\Nokiawzn\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
-137
-138        <receiver
-138-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-139            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-139-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-140            android:directBootAware="false"
-140-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-141            android:enabled="true"
-141-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-142            android:exported="true"
-142-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-143            android:permission="android.permission.DUMP" >
-143-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-144            <intent-filter>
-144-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-145                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-145-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-145-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-146            </intent-filter>
-147            <intent-filter>
-147-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-148                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-148-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-148-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-149            </intent-filter>
-150            <intent-filter>
-150-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-151                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-151-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-151-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-152            </intent-filter>
-153            <intent-filter>
-153-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-154                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-154-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-154-->[androidx.profileinstaller:profileinstaller:1.3.0] E:\Nokiawzn\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-155            </intent-filter>
-156        </receiver>
-157    </application>
-158
-159</manifest>
+80        <activity
+80-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:21:9-26:52
+81            android:name="com.chuckerteam.chucker.internal.ui.MainActivity"
+81-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:22:13-76
+82            android:label="@string/chucker_name"
+82-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:23:13-49
+83            android:launchMode="singleTask"
+83-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:24:13-44
+84            android:taskAffinity="com.chuckerteam.chucker.task"
+84-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:25:13-64
+85            android:theme="@style/Chucker.Theme" />
+85-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:26:13-49
+86        <activity
+86-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:27:9-30:52
+87            android:name="com.chuckerteam.chucker.internal.ui.transaction.TransactionActivity"
+87-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:28:13-95
+88            android:parentActivityName="com.chuckerteam.chucker.internal.ui.MainActivity"
+88-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:29:13-90
+89            android:theme="@style/Chucker.Theme" />
+89-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:30:13-49
+90
+91        <service
+91-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:32:9-35:72
+92            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseService"
+92-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:33:13-89
+93            android:exported="false"
+93-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:34:13-37
+94            android:permission="android.permission.BIND_JOB_SERVICE" />
+94-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:35:13-69
+95
+96        <receiver
+96-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:37:9-39:40
+97            android:name="com.chuckerteam.chucker.internal.support.ClearDatabaseJobIntentServiceReceiver"
+97-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:38:13-106
+98            android:exported="false" />
+98-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:39:13-37
+99
+100        <provider
+100-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:41:9-49:20
+101            android:name="com.chuckerteam.chucker.internal.support.ChuckerFileProvider"
+101-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:42:13-88
+102            android:authorities="com.capstone.lambiapp.com.chuckerteam.chucker.provider"
+102-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:43:13-84
+103            android:exported="false"
+103-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:44:13-37
+104            android:grantUriPermissions="true" >
+104-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:45:13-47
+105            <meta-data
+105-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:46:13-48:66
+106                android:name="android.support.FILE_PROVIDER_PATHS"
+106-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:47:17-67
+107                android:resource="@xml/chucker_provider_paths" />
+107-->[com.github.chuckerteam.chucker:library:4.0.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\1f4d0399ad056ac16f59d6877d1d6e33\transformed\library-4.0.0\AndroidManifest.xml:48:17-63
+108        </provider>
+109
+110        <activity
+110-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+111            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+111-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+112            android:excludeFromRecents="true"
+112-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+114-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+115        <!--
+116            Service handling Google Sign-In user revocation. For apps that do not integrate with
+117            Google Sign-In, this service will never be started.
+118        -->
+119        <service
+119-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+120            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+120-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+121            android:exported="true"
+121-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+122            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+122-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+123            android:visibleToInstantApps="true" />
+123-->[com.google.android.gms:play-services-auth:20.7.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\fabb5077bb877ab345ecdd71d5fe705e\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+124
+125        <activity
+125-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\humammuasyir\.gradle\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+126            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+126-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\humammuasyir\.gradle\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+127            android:exported="false"
+127-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\humammuasyir\.gradle\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+128            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+128-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\humammuasyir\.gradle\caches\transforms-3\ade257d3ab1a582df9eaaa4045aab7cc\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+129
+130        <meta-data
+130-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+131            android:name="com.google.android.gms.version"
+131-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+132            android:value="@integer/google_play_services_version" />
+132-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\5ad2f8015df10548923e6ab910fd6985\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+133
+134        <service
+134-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:24:9-33:19
+135            android:name="androidx.camera.core.impl.MetadataHolderService"
+135-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:25:13-75
+136            android:enabled="false"
+136-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:26:13-36
+137            android:exported="false" >
+137-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:27:13-37
+138            <meta-data
+138-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:30:13-32:89
+139                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+139-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:31:17-103
+140                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+140-->[androidx.camera:camera-camera2:1.2.3] C:\Users\humammuasyir\.gradle\caches\transforms-3\203aa555db912125af26cdd483c959f4\transformed\camera-camera2-1.2.3\AndroidManifest.xml:32:17-86
+141        </service>
+142
+143        <provider
+143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+144            android:name="androidx.startup.InitializationProvider"
+144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+145            android:authorities="com.capstone.lambiapp.androidx-startup"
+145-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+146            android:exported="false" >
+146-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+147            <meta-data
+147-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+148                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+148-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+149                android:value="androidx.startup" />
+149-->[androidx.emoji2:emoji2:1.2.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\d39a1a71cb92445ad924395f05b3b45a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+150            <meta-data
+150-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+151                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+151-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+152                android:value="androidx.startup" />
+152-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\b1466cc17a6dcdf69625081e524827b8\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+153            <meta-data
+153-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+154                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+154-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+155                android:value="androidx.startup" />
+155-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+156        </provider>
+157
+158        <service
+158-->[androidx.room:room-runtime:2.5.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+159            android:name="androidx.room.MultiInstanceInvalidationService"
+159-->[androidx.room:room-runtime:2.5.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+160            android:directBootAware="true"
+160-->[androidx.room:room-runtime:2.5.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+161            android:exported="false" />
+161-->[androidx.room:room-runtime:2.5.2] C:\Users\humammuasyir\.gradle\caches\transforms-3\a1058bcb4a20909f49bd958ffa59f513\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+162
+163        <receiver
+163-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+164            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+164-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+165            android:directBootAware="false"
+165-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+166            android:enabled="true"
+166-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+167            android:exported="true"
+167-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+168            android:permission="android.permission.DUMP" >
+168-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+169            <intent-filter>
+169-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+170                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+170-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+170-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+171            </intent-filter>
+172            <intent-filter>
+172-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+173                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+173-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+173-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+174            </intent-filter>
+175            <intent-filter>
+175-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+176                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+176-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+176-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+177            </intent-filter>
+178            <intent-filter>
+178-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+179                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+179-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\humammuasyir\.gradle\caches\transforms-3\c70309ac4172ba14e74f435e091b28c9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+180            </intent-filter>
+181        </receiver>
+182    </application>
+183
+184</manifest>

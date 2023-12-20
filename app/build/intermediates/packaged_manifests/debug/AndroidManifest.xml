@@ -8,6 +8,9 @@
         android:minSdkVersion="24"
         android:targetSdkVersion="34" />
 
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
@@ -43,6 +46,19 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.LambiApp" >
+        <activity
+            android:name="com.capstone.lambiapp.ui.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.capstone.lambiapp.ui.CameraViewActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.capstone.lambiapp.ui.CameraXActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.capstone.lambiapp.ui.HomeActivity"
+            android:configChanges="orientation|screenSize|colorMode|uiMode"
+            android:exported="true" />
         <activity
             android:name="com.capstone.lambiapp.ui.loginActivity"
             android:exported="true"
@@ -114,6 +130,15 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="androidx.camera.core.impl.MetadataHolderService"
+            android:enabled="false"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER"
+                android:value="androidx.camera.camera2.Camera2Config$DefaultProvider" />
+        </service>
 
         <provider
             android:name="androidx.startup.InitializationProvider"

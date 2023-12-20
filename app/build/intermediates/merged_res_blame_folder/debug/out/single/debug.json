@@ -1,138 +1,366 @@
 [
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_login.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logologin2.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logologin2.png"
+        "merged": "com.capstone.lambiapp-merged_res-58:/layout_fragment_profile.xml.flat",
+        "source": "com.capstone.lambiapp-main-60:/layout/fragment_profile.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_lambitextlogo.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\lambitextlogo.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_moon.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_moon.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logologin.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logologin.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_grey_overlay.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\grey_overlay.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_splashscreen.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\splashscreen.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_poppins_semi_bold.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\poppins_semi_bold.ttf"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_item_baju.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\item_baju.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logosplashscree.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logosplashscree.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baju_tiga.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baju_tiga.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_poppins_light.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\poppins_light.ttf"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreen.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreen.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_dummy_photo_profile.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\dummy_photo_profile.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.capstone.lambiapp-merged_res-58:/font_jejugothic_reguler.ttf.flat",
+        "source": "com.capstone.lambiapp-main-60:/font/jejugothic_reguler.ttf"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_loginlogo.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\loginlogo.png"
+        "merged": "com.capstone.lambiapp-merged_res-58:/layout_fragment_tutorial.xml.flat",
+        "source": "com.capstone.lambiapp-main-60:/layout/fragment_tutorial.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_lambilogin.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\lambilogin.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_logout.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_medium.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_medium.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_coffee.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_coffee.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_logosplashscree.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\logosplashscree.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_main.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_wm.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\wm.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_wmlogo.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\wmlogo.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_backgroundlogin.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\backgroundlogin.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_celana_satu.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\celana_satu.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_raincoat_red.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\raincoat_red.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenbg.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreenbg.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_cardview_putih.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_cardview_putih.xml"
     },
     {
-        "merged": "com.capstone.lambiapp-merged_res-4:/layout_activity_main.xml.flat",
-        "source": "com.capstone.lambiapp-main-6:/layout/activity_main.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\poppins_regular.ttf"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenlogo.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreenlogo.png"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_profile.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_logologin2.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\logologin2.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.capstone.lambiapp-merged_res-58:/drawable_ic_magic.xml.flat",
+        "source": "com.capstone.lambiapp-main-60:/drawable/ic_magic.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_signinbutton.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\signinbutton.png"
+        "merged": "com.capstone.lambiapp-merged_res-58:/layout_activity_about.xml.flat",
+        "source": "com.capstone.lambiapp-main-60:/layout/activity_about.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_wmlogo.png.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\wmlogo.png"
+        "merged": "com.capstone.lambiapp-merged_res-58:/drawable_bg_about_us.png.flat",
+        "source": "com.capstone.lambiapp-main-60:/drawable/bg_about_us.png"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_league_spartan_reguler.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\league_spartan_reguler.ttf"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\xml_backup_rules.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_custom.xml.flat",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\custom.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_backgroundlogin.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\backgroundlogin.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_tutorial.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_signinbutton.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\signinbutton.png"
+    },
+    {
+        "merged": "com.capstone.lambiapp-merged_res-58:/drawable_frame_about_us.png.flat",
+        "source": "com.capstone.lambiapp-main-60:/drawable/frame_about_us.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\navigation_main_navigation.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\navigation\\main_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baseline_upload_24.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baseline_upload_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_lambilogin.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\lambilogin.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_splashscreenbg.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\splashscreenbg.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_gallery.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_poppins_thin.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_trash.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baju_satu_jpg.jpg.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baju_satu_jpg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_info.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_item_stroke.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\item_stroke.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-merged_res-58:/drawable_baseline_history_24.xml.flat",
+        "source": "com.capstone.lambiapp-main-60:/drawable/baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baju_satu.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baju_satu.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_custom.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_arrow.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_activity_camera_xactivity.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_camera_xactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_logologin.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\logologin.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_fab_bg.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\fab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_item_rounded.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_item_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_lambitextlogo.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\lambitextlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baseline_camera_24.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baseline_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_camera_oval.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_camera_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_league_spartan_medium.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\league_spartan_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_loginlogo.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\loginlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_fragment_tutorial.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_upload.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_upload.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_colorpicker_rounded.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_colorpicker_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_splashscreenlogo.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\splashscreenlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_pattern_main_logo.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\pattern_main_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_preview_colorpicker.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_preview_colorpicker.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_preview_rounded.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_preview_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\color_navbar_color_select.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\color\\navbar_color_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-merged_res-58:/font_nanumghotic_reguler.ttf.flat",
+        "source": "com.capstone.lambiapp-main-60:/font/nanumghotic_reguler.ttf"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\layout_activity_camera_view.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_camera_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_bg_nav_bottom.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\bg_nav_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_wm.png.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\wm.png"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-merged_res-58:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\drawable\\ic_home.xml"
     }
 ]

@@ -1,14 +1,54 @@
 [
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_main.xml",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\activity_camera_xactivity.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_camera_xactivity.xml"
     },
     {
-        "merged": "com.capstone.lambiapp-mergeDebugResources-3:/layout/activity_main.xml",
-        "source": "com.capstone.lambiapp-main-6:/layout/activity_main.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_home.xml"
     },
     {
-        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_login.xml",
-        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-mergeDebugResources-57:/layout/fragment_profile.xml",
+        "source": "com.capstone.lambiapp-main-60:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\fragment_tutorial.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-mergeDebugResources-57:/layout/activity_about.xml",
+        "source": "com.capstone.lambiapp-main-60:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-mergeDebugResources-57:/layout/fragment_tutorial.xml",
+        "source": "com.capstone.lambiapp-main-60:/layout/fragment_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\item_baju.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\item_baju.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\activity_camera_view.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_camera_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-57:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\humammuasyir\\.gradle\\daemon\\8.0\\com.capstone.lambiapp-main-60:\\layout\\activity_login.xml"
     }
 ]
