@@ -4,6 +4,7 @@ import android.Manifest
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.graphics.BitmapFactory
+import android.net.Uri
 import android.os.Build
 import android.os.Bundle
 import android.widget.Toast
@@ -76,6 +77,32 @@ class CameraViewActivity : AppCompatActivity() {
 
         binding.btnTakePhoto.setOnClickListener {
             goToCamera()
+        }
+
+        binding.btnUploadImage.setOnClickListener{
+            goToGallery()
+        }
+    }
+
+    // Gallery Stuff
+    private fun goToGallery() {
+        val intent = Intent()
+        intent.action = Intent.ACTION_GET_CONTENT
+        intent.type = "image/*"
+        val chooser = Intent.createChooser(intent, "Choose a Picture")
+        launcherIntentGallery.launch(chooser)
+    }
+
+
+    private val launcherIntentGallery = registerForActivityResult(
+        ActivityResultContracts.StartActivityForResult()
+    ) {
+        if (it.resultCode == RESULT_OK) {
+            val selectedImg: Uri = it.data?.data as Uri
+            val myFile = Utils().uriToFile(selectedImg, this@CameraViewActivity,timeStamp)
+            getFile = myFile
+//            imgURI = selectedImg
+            binding.previewCaptureCamera.setImageURI(selectedImg)
         }
     }
 
