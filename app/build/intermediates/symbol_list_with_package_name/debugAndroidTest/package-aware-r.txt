@@ -1,0 +1,3 @@
+com.capstone.lambiapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,6 @@
+com.capstone.lambiapp.test.app-androidTest-0 C:\Users\HERJATI AJI\Downloads\LambiApp-humam (1)\LambiApp-humam\app\build\generated\res\resValues\androidTest\debug
+com.capstone.lambiapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\HERJATI AJI\Downloads\LambiApp-humam (1)\LambiApp-humam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.capstone.lambiapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\HERJATI AJI\Downloads\LambiApp-humam (1)\LambiApp-humam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.capstone.lambiapp.test.app-merged_res-3 C:\Users\HERJATI AJI\Downloads\LambiApp-humam (1)\LambiApp-humam\app\build\intermediates\merged_res\debugAndroidTest
+com.capstone.lambiapp.test.app-core-1.5.0-4 E:\Nokiawzn\caches\transforms-3\19d4402762c6008acbd3d1a740ef28ac\transformed\core-1.5.0\res
+com.capstone.lambiapp.test.app-annotation-experimental-1.3.0-5 E:\Nokiawzn\caches\transforms-3\6265fe3aa1488f615f30eac1cbc18537\transformed\annotation-experimental-1.3.0\res

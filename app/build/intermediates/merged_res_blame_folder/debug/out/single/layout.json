@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_home.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\fragment_tutorial.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\item_slider_card.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_slider_card.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_camera_view.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_camera_view.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\item_session.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_session.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\item_baju.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_baju.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\fragment_gallery.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_about.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_camera_xactivity.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_camera_xactivity.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\fragment_profile.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_detail.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-mergeDebugResources-3:/layout/activity_session.xml",
+        "source": "com.capstone.lambiapp-main-6:/layout/activity_session.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\item_recommendation.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_recommendation.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-mergeDebugResources-3:\\layout\\activity_session.xml",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_session.xml"
+    }
+]

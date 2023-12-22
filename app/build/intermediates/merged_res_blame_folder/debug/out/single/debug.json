@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_camera_oval.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_camera_oval.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_light.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_light.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_home.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_detail_ic.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\detail_ic.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_jejugothic_reguler.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\jejugothic_reguler.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_coffee.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_coffee.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logosplashscree.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logosplashscree.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_info.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_info.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_fragment_profile.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_back_arrow.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\back_arrow.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\navigation_main_navigation.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\navigation\\main_navigation.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_kamera.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\kamera.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_backgroundlogin.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\backgroundlogin.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_wm.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\wm.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_thin.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_thin.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenlogo.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreenlogo.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_logout.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_preview_rounded.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_preview_rounded.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baseline_history_24.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baseline_history_24.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_signinbutton.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\signinbutton.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\xml_backup_rules.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_gallery.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_gallery.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baju_satu_jpg.jpg.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baju_satu_jpg.jpg"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baseline_camera_24.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baseline_camera_24.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_addbox.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\addbox.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_frame_about_us.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\frame_about_us.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_about.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_placeholder.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_lambitextlogo.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\lambitextlogo.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logologin2.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logologin2.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_dummy_photo_profile.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\dummy_photo_profile.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baseline_add_24.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_camera_xactivity.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_camera_xactivity.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_preview_colorpicker.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_preview_colorpicker.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_item_baju.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_baju.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_item_rounded.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_item_rounded.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baju_satu.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baju_satu.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_trash.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_trash.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_league_spartan_reguler.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\league_spartan_reguler.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_nav_bottom.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_nav_bottom.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_league_spartan_medium.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\league_spartan_medium.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_fragment_home.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_medium.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_medium.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baju_tiga.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baju_tiga.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_send_photo.jpg.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\send_photo.jpg"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_fragment_gallery.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "com.capstone.lambiapp-merged_res-4:/layout_activity_session.xml.flat",
+        "source": "com.capstone.lambiapp-main-6:/layout/activity_session.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_colorpicker_rounded.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_colorpicker_rounded.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_create_session.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\create_session.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_regular.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_about_us.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_about_us.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_lambilogin.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\lambilogin.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_celana_satu.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\celana_satu.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baseline_arrow_back_ios_24.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_error_placeholder.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\error_placeholder.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_tutorial.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_tutorial.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_send_ic.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\send_ic.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_home.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\color_navbar_color_select.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\color\\navbar_color_select.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_magic.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_magic.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_fab_bg.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\fab_bg.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_bg_cardview_putih.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\bg_cardview_putih.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\menu_menu_bottom_nav.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_pattern_main_logo.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\pattern_main_logo.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_item_stroke.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\item_stroke.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_login.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_grey_overlay.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\grey_overlay.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_logologin.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\logologin.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_profile.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_raincoat_red.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\raincoat_red.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_item_recommendation.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_recommendation.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreen.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_item_slider_card.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_slider_card.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_detail_preview.jpg.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\detail_preview.jpg"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_camera.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_camera_view.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_camera_view.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_loginlogo.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\loginlogo.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_splashscreenbg.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\splashscreenbg.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_detail.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_moon.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_moon.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_item_session.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\item_session.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_fragment_tutorial.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_arrow.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_arrow.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_upload.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_upload.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\layout_activity_session.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\layout\\activity_session.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\font_poppins_semi_bold.ttf.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\font\\poppins_semi_bold.ttf"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_wmlogo.png.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\wmlogo.png"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_baseline_upload_24.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\baseline_upload_24.xml"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-merged_res-4:\\drawable_custom.xml.flat",
+        "source": "E:\\Nokiawzn\\daemon\\8.0\\com.capstone.lambiapp-main-6:\\drawable\\custom.xml"
+    }
+]
